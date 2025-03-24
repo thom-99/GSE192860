@@ -1,4 +1,4 @@
-### Targeting Nasopharyngeal Carcinoma: RNA-Seq Insights on Trifluoperazine's Potential
+## Targeting Nasopharyngeal Carcinoma: RNA-Seq Insights on Trifluoperazine's Potential
 
 ![Progetto senza titolo](https://github.com/user-attachments/assets/487ec831-693b-40f3-af76-0c9567cf7e64)
 
