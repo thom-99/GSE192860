@@ -1,6 +1,7 @@
 ### Targeting Nasopharyngeal Carcinoma: RNA-Seq Insights on Trifluoperazine's Potential
 
-![image](https://github.com/user-attachments/assets/1cddee00-20e5-4290-b27b-a0f4f78d084c)
+![Progetto senza titolo](https://github.com/user-attachments/assets/487ec831-693b-40f3-af76-0c9567cf7e64)
+
 
 this repository aims to analyze the potential therapeutic effects of [trifluoperazine](https://en.wikipedia.org/wiki/Trifluoperazine), a common antipsychotic drug used mainly to treat schizophrenia, on nasopharingeal carcinoma. 
 
