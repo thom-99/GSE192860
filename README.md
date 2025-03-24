@@ -6,6 +6,7 @@
 this repository aims to analyze the potential therapeutic effects of [trifluoperazine](https://en.wikipedia.org/wiki/Trifluoperazine), a common antipsychotic drug used mainly to treat schizophrenia, on nasopharingeal carcinoma. 
 
 the [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE192860) can be accessed through GEO
+
 original paper: https://pubmed.ncbi.nlm.nih.gov/36349408/ 
 
 the code aims to be reproducible. I've included links to online resources which I deem useful to clarifying difficult concepts or functions. Nonetheless, were something not to be clear please feel free to ask.
